@@ -1,4 +1,4 @@
-export default function DashboardLayout({ children }) {
+export default function EntrepreneurDashboard({ children }) {
   return (
     <div className="flex min-h-screen">
       <aside className="w-64 bg-white border-r shadow-md p-6">
