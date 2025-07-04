@@ -1,4 +1,4 @@
-import DashboardLayout from '../layouts/dashboardlayout';
+import DashboardLayout from './DashboardLayout';
 
 export default function InvestorDashboard() {
   return (
